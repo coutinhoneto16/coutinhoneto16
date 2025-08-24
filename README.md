@@ -4,6 +4,8 @@
 <p> Aprendendo e evoluindo na programação gradualmente. Atualmente estou cursando Análise e Desenvolvimento de Sistemas e desenvolvendo novas habilidades e conhecimentos.<p>
   
 [![coutinhoneto16's GitHub stats](https://github-readme-stats.vercel.app/api?username=coutinhoneto16&theme=radical)](https://github.com/coutinhoneto16/github-readme-stats)
+<h2></h2>
+![Top languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=coutinhoneto16&layout=compact&langs_count=7&theme=dark)
 
 <h2>Familiaridades: </h2>
 
